@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\ubaid\\Downloads\\blockchain\\ether-donation-dapp\\contracts\\Donation.sol": {
+      "lastModificationDate": 1681792499098,
+      "contentHash": "ecb13d7eb99450d7b69c3ab69ac30be2",
+      "sourceName": "contracts/Donation.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "DonationContract"
+      ]
+    }
+  }
+}
